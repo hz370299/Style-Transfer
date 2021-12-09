@@ -20,10 +20,12 @@ And according to the result of crowdsourcing, we found that our best model recei
 
 ### Other beautiful generated pictures
 
-<img src="1.png" alt="1" style="zoom:70%;" />
 
-![2](2.png)
 
-<img src="3.png" alt="3" style="zoom:80%;" />
+<div align=center><img src="1.png" alt="1.png" width="70%" height="70%" /><div>
 
-<img src="4.png" alt="4" style="zoom:80%;" />
+<div align=center><img src="2.png" alt="2.png" width="70%" height="70%" /><div>
+
+<div align=center><img src="3.png" alt="3.png" width="70%" height="70%" /><div>
+
+<div align=center><img src="4.png" alt="4" width="70%" height="70%" /><div>
