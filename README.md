@@ -1,6 +1,8 @@
 # StyleTransfer
 CIS519 GroupWork
 
+Group Member: Xi Cao, Yuxuan Li, Zheng Han
+
 This is our group project for Upenn CIS 519 Applied Machine Learning.
 
 ### Abstract
